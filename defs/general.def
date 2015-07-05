@@ -1,0 +1,29 @@
+# Module short name
+MODULEIDNAME       = scaleimagelib
+
+# Module version number
+MODULEVERSION      = 1.0.3
+
+# Module release date
+MODULEDATE         = 2004/04/15
+
+# Module long description
+MODULEDESCRIPTION  = With the ScaleImage class you can easyly, in two lines of code manipulate your images.
+
+# Module dependencies
+MODULEDEPENDENCIES =
+
+# Module suggestions
+MODULESUGGESTIONS  =
+
+MODULE_AUTHOR       = Dennis Iversen
+MODULE_AUTHOR_EMAIL = dennisbech@yahoo.dk
+MODULE_AUTHOR_SITE  =
+MODULE_SUPPORT_EMAIL    = support@ampoliros.com
+MODULE_BUGS_EMAIL   = bugs@ampoliros.com
+MODULE_COPYRIGHT    =
+MODULE_LICENSE      = GPL
+MODULE_LICENSE_FILE = LICENSE
+MODULE_MAINTAINER   = Alex Pagnoni
+MODULE_MAINTAINER_EMAIL = alex@ampoliros.com
+MODULE_CATEGORY     = libraries

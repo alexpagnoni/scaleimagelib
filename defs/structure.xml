@@ -1,0 +1,8 @@
+<?xml version='1.0'?>
+<structure>
+
+    <library
+        name="scaleimage"
+        file="scaleimage.library"/>
+
+</structure>
